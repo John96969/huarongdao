@@ -2,7 +2,7 @@
 title = 数字华容道
 package.name = huarongdao
 package.domain = org.kivy
-package.version = 0.1.0
+package.version = 0.1
 source.dir = .
 main.py = main.py
 
